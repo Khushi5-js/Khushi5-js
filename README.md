@@ -32,3 +32,25 @@ If you share an interest in technology or want to collaborate on a project, feel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kumari-351853359/)
 
+
+
+# 📊 GitHub Analytics
+
+![Profile Views](https://komarev.com/ghpvc/?username=Khushi5-js&color=purple)
+
+## ⚡ Khushi5-js's GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushi5-js&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Khushi5-js&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi5-js&layout=compact&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khushi5-js&theme=react-dark&hide_border=true)
+
+---
+
