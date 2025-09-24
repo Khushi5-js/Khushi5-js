@@ -4,7 +4,7 @@
  ---
  I’m Khushi Kumari, a 2nd-year B.Tech student in Computer Science and Engineering at TIEM Kolkata. I’ve built a solid foundation in Java, Python, C programming, HTML, and CSS. I’m comfortable using tools like VS Code, Git, GitHub, and working across Windows and Linux environments. Currently, I am learning React.js to enhance my front-end development skills.
 
-I’m passionate about front-end development and actively working on strengthening my backend skills to become a full-stack developer. I value resilience in handling setbacks and persisting through tough problems. Teamwork is important to me because software is rarely built alone. I practice effective time management to meet deadlines and prioritize tasks efficiently. Creativity drives me to find innovative solutions and deliver better user experiences. I’m adaptable, communicate well, and always eager to learn and grow.
+I’m passionate about frontend development and actively working on strengthening my backend skills to become a full-stack developer. I value resilience in handling setbacks and persisting through tough problems. Teamwork is important to me because software is rarely built alone. I practice effective time management to meet deadlines and prioritize tasks efficiently. Creativity drives me to find innovative solutions and deliver better user experiences. I’m adaptable, communicate well, and always eager to learn and grow.
 
 If you share an interest in technology or want to collaborate on a project, feel free to reach out!
  ---
